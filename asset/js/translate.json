@@ -1,0 +1,24 @@
+{
+    "en": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About Us",
+      "contact": "Contact",
+      "homecontent": "Welcome to TopRate VietNam"
+    },
+    "ja": {
+      "home": "ホーム",
+      "services": "サービス",
+      "about": "私たちに関しては",
+      "contact": "お問い合わせ",
+      "homecontent": "TopRate VietNamへようこそ"
+    },
+    "vi": {
+      "home": "Trang chủ",
+      "services": "Dịch vụ",
+      "about": "Về chúng tôi",
+      "contact": "Liên hệ",
+      "homecontent": "Chào mừng đến với TopRate VietNam"
+
+    }
+}
