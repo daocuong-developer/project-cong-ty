@@ -42,11 +42,7 @@
         ],
         "langTitle": "Language - Platform",
         "laborServiceTitle": "Labor Service",
-        "laborServiceContent": `ODC solution for software development
-                                Minimize the cost of setting up business infrastructure with
-                                strong and modern infrastructure team and equipment. Toprate provides abundant IT human resources with
-                                high level. ODCs always have technical support, and
-                                absolute security policies throughout the project implementation period.`,
+        "laborServiceContent": "ODC solution for software development Minimize the cost of setting up business infrastructure with,strong and modern infrastructure team and equipment. Toprate provides abundant IT human resources with high level. ODCs always have technical support, and absolute security policies throughout the project implementation period.",
         "laborModelsTitle": "Models of Labot that TopRate offers",
         "laborModelsList": [
             "Mode 1: Customers are not present at the Toprate office.",
@@ -116,7 +112,7 @@
         ],
         "langTitle": "言語–プラットフォーム",
         "laborServiceTitle": "ラボサービス",
-        "laborServiceContent": `ソフトウェアの開発ためのODCサービスは、最新の独立したチームと現代の施設を使用してビジネスインフラストラクチャをセットアップするコストを削減します。TopRateは、豊富で高度な資格を持つIT人材を提供します。 ODCには、プロジェクトの実施期間を通じて常に継続的な技術サポートポリシーがあります。`,
+        "laborServiceContent":" `ソフトウェアの開発ためのODCサービスは、最新の独立したチームと現代の施設を使用してビジネスインフラストラクチャをセットアップするコストを削減します。TopRateは、豊富で高度な資格を持つIT人材を提供します。 ODCには、プロジェクトの実施期間を通じて常に継続的な技術サポートポリシーがあります。`",
         "laborModelsTitle": "TopRateは2つの形式のラボを提供します",
         "laborModelsList": [
             "フォーム1：顧客はTopRateのオフィスにいません",
@@ -134,7 +130,7 @@
         "name2": "マイケルノアス",
         "job2": "シニアマネージャー",
             
-        "description3": "私はTopRateで2年近く働いています。アウトソーシングについて知っていたと思ったことを忘れて...	",
+        "description3": "私はTopRateで2年近く働いています。アウトソーシングについて知っていたと思ったことを忘れて...",
         "tooltiptext3": "私はTopRateで2年近く働いています。アウトソーシングについて知っていたと思ったことを忘れてください。これらの人がそれを次のレベルに持って行ったからです。一緒に仕事をしているチームは、私のビジネスの重要な部分になっています。 クリーンで再生可能なエネルギーに焦点を当てた若いスタートアップとして、AOECorpは非常に急速に成長し、大量の技術的負債を残しています。 TopRateのエンジニアは、期限に間に合うようにコンポーネントの作業を合理化するだけでなく、システム全体をリファクタリングして、よりスケーラビリティかつ機能的なものにしました。",
         "name3": "サンタカオ",
         "job3": "最高経営責任者",
