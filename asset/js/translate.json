@@ -184,11 +184,7 @@
         ],
         "langTitle": "Ngôn ngữ – Nền tảng",
         "laborServiceTitle": "Dịch vụ Labor",
-        "laborServiceContent": `Giải pháp ODC cho việc phát triển phần mềm
-                                Giảm thiểu chi phí thiết lập cơ sở hạ tầng kinh doanh với
-                                đội ngũ và trang thiết bị cơ sở hạ tầng mạnh mẽ và hiện đại. Toprate cung cấp nguồn nhân lực CNTT dồi dào với
-                                trình độ cao. Các ODC luôn có sự hỗ trợ về kỹ thuật, đồng thời có
-                                các chính sách bảo mật tuyệt đối trong suốt thời gian thực hiện dự án`,
+        "laborServiceContent":"Giải pháp ODC cho việc phát triển phần mềm Giảm thiểu chi phí thiết lập cơ sở hạ tầng kinh doanh với đội ngũ và trang thiết bị cơ sở hạ tầng mạnh mẽ và hiện đại. Toprate cung cấp nguồn nhân lực CNTT dồi dào với trình độ cao. Các ODC luôn có sự hỗ trợ về kỹ thuật, đồng thời có các chính sách bảo mật tuyệt đối trong suốt thời gian thực hiện dự án",
         "laborModelsTitle": "TopRate cung cấp 2 hình thức Labor",
         "laborModelsList": [
             "Hình thức 1 : Khách hàng không có mặt ở văn phòng TopRate",
