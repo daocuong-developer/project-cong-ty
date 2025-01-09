@@ -331,3 +331,12 @@ document.getElementById('japan').addEventListener('click',()=>{
 document.getElementById('vietnamese').addEventListener('click',()=>{
     translate('vi');
 });
+document.getElementById('footer-english').addEventListener('click',()=>{
+    translate('en');
+});
+document.getElementById('footer-japan').addEventListener('click',()=>{
+    translate('ja');
+});
+document.getElementById('footer-vietnamese').addEventListener('click',()=>{
+    translate('vi');
+});
