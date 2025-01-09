@@ -643,7 +643,7 @@ body{
     line-height: 1.5;
     text-align: center;
     border-radius: 10px;
-    z-index: 999999;
+    z-index: 999998;
 }
 .container-eight .inner-wrap .inner-widget .inner-article:hover .giao-info .tooltiptext {
     display: block;
