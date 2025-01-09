@@ -92,6 +92,7 @@ body{
     color: var(--color-text-three);
     margin: 0px 0px 20px;
 }
+
 .container .inner-wrap .inner-title h2 span{
     color: var(--color-text-one);
 }
